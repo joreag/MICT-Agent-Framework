@@ -48,8 +48,6 @@ When faced with a complex query, the agent will now "show its work" using Glass 
 ## Advanced: HCTS (Hierarchical Context)
 For massive tasks (e.g., "Write an entire application"), the MICT skill instructs the AI to invoke **HCTS** (Hierarchical Contextual Transformation System), breaking the master task into sub-tasks and running miniature MICT cycles on each one.
 
-MICT_VS_STANDARD_EXAMPLE.md
-
 ## Origins
 The MICT Framework is part of **Project Genesis**, an ongoing research initiative into hybrid AI-native Operating Systems and computational physics. 
 
